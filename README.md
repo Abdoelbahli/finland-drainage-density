@@ -38,8 +38,8 @@ This project demonstrates how to speed up the evaluation of a Gaussian kernel de
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cpu-kde-evaluation.git
-   cd cpu-kde-evaluation
+   git clone https://github.com/Abdoelbahli/finland-drainage-density.git
+   cd finland-drainage-density
    ```
 
 2. **Install Dependencies:**

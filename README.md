@@ -72,7 +72,7 @@ This project is structured as a Jupyter Notebook with cells that execute the fol
 To run the notebook, open it in Jupyter Notebook or JupyterLab:
 
 ```bash
-jupyter notebook CPU_KDE_Evaluation.ipynb
+jupyter notebook drainage.ipynb
 ```
 
 Then, execute the cells in order.
